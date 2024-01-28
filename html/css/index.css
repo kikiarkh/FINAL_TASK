@@ -11,6 +11,9 @@
 }
  nav li {
 	 display: inline-block;
+ }
+ .img-div {
+	display: flex;
 }
  body {
 	 background: #000000;
